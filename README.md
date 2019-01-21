@@ -155,3 +155,7 @@ After 10 minutes:
 After 10 minutes, there are 37 wooded acres and 31 lumberyards. Multiplying the number of wooded acres by the number of lumberyards gives the total resource value after ten minutes: 37 * 31 = 1147.
 
 **What will the total resource value of the lumber collection area be after 10 minutes?**
+
+-------------
+
+stack test
